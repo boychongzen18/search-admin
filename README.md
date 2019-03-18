@@ -1,6 +1,6 @@
 # Scanning Search-Admin Log-In Website
 
-Cara Eksekusi di Windows :
+# Cara Eksekusi di Windows :
 
 Download Python : https://shortid.co/bFWBm
 
@@ -18,7 +18,9 @@ python search-admin.py -h
 
 
 
-=========================================================================
+=============================================================
+# Cara Eksekusi di Termux :
+
 pkg update && pkg upgrade -y
 
 pkg install git python2 php unrar -y
