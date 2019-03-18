@@ -16,7 +16,8 @@ chmod 777 search-admin.py
 
 python search-admin.py -h
 
-
+# Tampilan Windows
+![be](https://raw.githubusercontent.com/boychongzen18/search-admin/master/win.png)
 
 =============================================================
 # Cara Eksekusi di Termux :
